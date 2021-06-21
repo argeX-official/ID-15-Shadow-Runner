@@ -1,9 +1,9 @@
 # Shadow Runner
-![Image](http://www.team-arg.org/masterfiles/team-arg-shrun/images/banner-ID-15b.png)
+![Image](https://raw.githubusercontent.com/Team-ARG-Museum/ID-15-Shadow-Runner/master/art/banner-ID-15.png)
 
-SHADOW RUNNER: http://www.team-arg.org/shrun-manual.html  
-**Download latest Arduboy version and source :** https://github.com/TEAMarg/ID-15-Shadow-Runner/releases/latest  
-MADE by TEAM a.r.g. : http://www.team-arg.org/about.html
+SHADOW RUNNER:  
+**Download latest Arduboy version and source :** https://github.com/Team-ARG-Museum/ID-15-Shadow-Runner/releases/latest  
+MADE by TEAM a.r.g. : https://team-arg-museum.github.io/
 
 2015 - JO3RI - Trodoss
 
