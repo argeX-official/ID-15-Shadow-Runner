@@ -1,14 +1,21 @@
-# Shadow Runner
-![Image](https://raw.githubusercontent.com/Team-ARG-Museum/ID-15-Shadow-Runner/master/art/banner-ID-15.png)
+## **Mystic Balloon**
 
-SHADOW RUNNER:  
-**Download latest Arduboy version and source :** https://github.com/Team-ARG-Museum/ID-15-Shadow-Runner/releases/latest  
-MADE by TEAM a.r.g. : https://team-arg-museum.github.io/
+This project has been developed by [TEAM a.r.g.][1] and forked directly from [Game-ID-34-Mystic-Balloon][2].
 
-2015 - JO3RI - Trodoss
+You can read the original README file from [here][3].
 
-Special thanks to Dreamer3 for helping with the conversion from Gamby
+You can download the .hex file of this project **compiled for watchX** from [here][4].
 
-Thanks to MLXXXp for his help on switching from ARGlib to Arduboy 2 library
+There is no original README file released by the developer.
 
-Game License: MIT : https://opensource.org/licenses/MIT
+## **License**
+
+This project has been released under the MIT License by it's developer.
+
+The full document can be found in the [LICENSE][5] file.
+
+[1]: http://www.team-arg.org/more-about.html
+[2]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon
+[3]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon/blob/master/OLD_README.md
+[4]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon/releases
+[5]: https://github.com/argeX-official/Game-ID-34-Mystic-Balloon/blob/master/LICENSE
